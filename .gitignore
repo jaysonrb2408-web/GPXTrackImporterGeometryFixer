@@ -1,0 +1,39 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Python test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build and distribution output
+build/
+dist/
+*.egg-info/
+
+# QGIS temporary files
+*.qgs~
+*.qgz~
